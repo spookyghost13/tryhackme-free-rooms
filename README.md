@@ -84,9 +84,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
 - [ ] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 - [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 - [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 - [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 - [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
@@ -110,14 +110,14 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Basics Rooms
 
-- [ ] [TryHackMe | Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction)
-- [ ] [TryHackMe | Windows Basics](https://tryhackme.com/room/windowsbasics)
-- [ ] [TryHackMe | Data Representation](https://tryhackme.com/room/datarepresentation)
-- [ ] [TryHackMe | Data Encoding](https://tryhackme.com/room/dataencoding)
-- [ ] [TryHackMe | The CIA Triad](https://tryhackme.com/room/theciatriad)
-- [ ] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer)
-- [ ] [TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)
-- [ ] [TryHackMe | Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics)
+- [x] [TryHackMe | Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction)
+- [x] [TryHackMe | Windows Basics](https://tryhackme.com/room/windowsbasics)
+- [x] [TryHackMe | Data Representation](https://tryhackme.com/room/datarepresentation)
+- [x] [TryHackMe | Data Encoding](https://tryhackme.com/room/dataencoding)
+- [x] [TryHackMe | The CIA Triad](https://tryhackme.com/room/theciatriad)
+- [x] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer)
+- [x] [TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)
+- [x] [TryHackMe | Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics)
 - [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
@@ -205,7 +205,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Cryptography & Hashes
 
-- [ ] [TryHackMe | Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts)
+- [x] [TryHackMe | Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts)
 - [ ] [TryHackMe | Breaking Crypto the Simple Way](https://tryhackme.com/room/breakingcryptothesimpleway)
 - [ ] [TryHackMe | Crypto Failures](https://tryhackme.com/room/cryptofailures)
 - [ ] [TryHackMe | Breaking RSA](https://tryhackme.com/room/breakrsa)
