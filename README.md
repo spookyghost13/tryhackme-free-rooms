@@ -70,7 +70,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
 - [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
 - [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
-- [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
+- [x] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 - [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
@@ -85,12 +85,12 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 - [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 - [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 - [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
-- [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
@@ -104,7 +104,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Windows Fundamentals
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 - [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 - [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
@@ -453,7 +453,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 - [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)- [ ] [TryHackMe | DFIR: An Introduction](https://tryhackme.com/room/introductoryroomdfirmodule)
 
-- [ ] [TryHackMe | The Phishing Pond](https://tryhackme.com/room/phishingpond)
+- [x] [TryHackMe | The Phishing Pond](https://tryhackme.com/room/phishingpond)
 - [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
 - [ ] [TryHackMe | Soupedecode 01](tryhackme.com/room/soupedecode01)
 - [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
